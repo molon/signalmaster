@@ -1,1 +1,1 @@
-FROM _/node
+FROM node
